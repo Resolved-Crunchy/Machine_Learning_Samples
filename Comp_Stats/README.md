@@ -1,0 +1,1 @@
+This project represents fulfillment of a homework assignment for a Computational Statistics course. The assignment in question was fairly open ended, so this project takes on a more stream of consciousness esque format, playing around with different tools in Python's many data science related libraries. 
